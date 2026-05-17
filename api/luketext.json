@@ -1,7 +1,11 @@
 [
   {
-    "version": "2.3.0",
+    "version": "3.0.0",
     "update": false
+  },
+  {
+    "version": "2.3.0",
+    "update": true
   },
   {
     "version": "2.2.1",
